@@ -16,5 +16,17 @@ p{
     height: 30px;
     width: 150px;
     text-align: left;
-    color: yellow
+    color: yellow;
+}
+
+#Batcave figcaption{
+    Text-align: left;
+    color: Yellow;
+    font-size:large;
+    padding-left: 200px;
+}
+
+#Batcave img{
+    height: 300px;
+    width: 500px
 }
