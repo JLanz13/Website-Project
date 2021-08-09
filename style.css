@@ -10,11 +10,11 @@ h1{
     color: yellow;
 }
 
-p{
+h2{
     font-size: 25px;
     background-color: grey;
     height: 30px;
-    width: 150px;
+    width: 160px;
     text-align: left;
     color: yellow;
 }
@@ -29,4 +29,23 @@ p{
 #Batcave img{
     height: 300px;
     width: 500px
+}
+
+#Batails div {
+    float: left;
+    text-align: center;
+    width: 25%;
+    color:yellow;
+    list-style-type: none;
+}
+
+#img1{
+    width: 200px;
+    height: 100px
+}
+
+#img1{
+    position: absolute;
+    top: 0;
+    right: 0;
 }
